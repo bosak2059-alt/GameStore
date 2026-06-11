@@ -3140,3 +3140,91 @@
 body.welcome-active {
   overflow: hidden;
 }
+
+/* --- Системные требования --- */
+.details__requirements {
+  margin-top: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border, #2a2a3a);
+}
+
+.details__section-title {
+  font-size: 1.4rem;
+  margin-bottom: 1.2rem;
+  color: var(--text-primary, #fff);
+}
+
+.requirements-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.requirements-col {
+  background: var(--surface-2, #1a1a2e);
+  border-radius: 12px;
+  padding: 1.2rem 1.5rem;
+  border: 1px solid var(--border, #2a2a3a);
+}
+
+.requirements-col--rec {
+  border-color: var(--accent, #6c5ce7);
+}
+
+.requirements-col h3 {
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
+  color: var(--text-primary, #fff);
+}
+
+.requirements-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.requirements-list li {
+  padding: 0.4rem 0;
+  font-size: 0.9rem;
+  color: var(--text-secondary, #aaa);
+  border-bottom: 1px solid var(--border, #2a2a3a);
+}
+
+.requirements-list li:last-child {
+  border-bottom: none;
+}
+
+.requirements-list strong {
+  color: var(--text-primary, #fff);
+  display: inline-block;
+  min-width: 140px;
+}
+
+/* --- Карточка: рейтинг и описание --- */
+.game-card__rating {
+  font-size: 0.85rem;
+  color: var(--text-secondary, #aaa);
+  margin: 0.3rem 0;
+}
+
+.game-card__dev {
+  opacity: 0.7;
+  font-size: 0.8rem;
+}
+
+.game-card__desc {
+  font-size: 0.82rem;
+  color: var(--text-secondary, #aaa);
+  line-height: 1.4;
+  margin: 0.5rem 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+@media (max-width: 640px) {
+  .requirements-grid {
+    grid-template-columns: 1fr;
+  }
+}

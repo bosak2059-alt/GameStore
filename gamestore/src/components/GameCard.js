@@ -3,7 +3,9 @@ import { cartActions } from '../core/store.js';
 import { t } from '../utils/i18n.js';
 
 export class GameCard {
-  constructor(game) { this.game = game; }
+  constructor(game) {
+    this.game = game;
+  }
 
   render() {
     const inCart = cartActions.isInCart(this.game.id);
@@ -18,11 +20,21 @@ export class GameCard {
           ${discount ? `<span class="game-card__discount">-${discount}%</span>` : ''}
           ${this.game.price === 0 ? `<span class="game-card__free">${t('free')}</span>` : ''}
         </a>
+
         <div class="game-card__body">
           <div class="game-card__tags">
             ${this.game.tags.map((tag) => `<span class="tag">${tag}</span>`).join('')}
           </div>
+
           <a href="/game/${this.game.id}" data-link class="game-card__title">${this.game.title}</a>
+
+          <div class="game-card__rating">
+            ⭐ <span>${this.game.rating}</span>
+            <span class="game-card__dev">• ${this.game.developer}</span>
+          </div>
+
+          <p class="game-card__desc">${this.game.description}</p>
+
           <div class="game-card__footer">
             <div class="game-card__price">
               ${this.game.oldPrice ? `<span class="price-old">${formatPrice(this.game.oldPrice)}</span>` : ''}

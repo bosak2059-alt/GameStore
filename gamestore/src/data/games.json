@@ -1,20 +1,1028 @@
 [
-  {"id": 1, "title": "Cyber Odyssey 2088", "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600", "price": 1999, "oldPrice": 2999, "tags": ["RPG", "Cyberpunk", "Open World"], "description": "Погрузитесь в мрачное будущее, где корпорации правят миром.", "developer": "Neon Studios", "rating": 4.8},
-  {"id": 2, "title": "Stellar Frontier", "image": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=600", "price": 1499, "oldPrice": null, "tags": ["Strategy", "Sci-Fi", "4X"], "description": "Постройте межзвёздную империю.", "developer": "Cosmos Games", "rating": 4.5},
-  {"id": 3, "title": "Shadow of the Samurai", "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=600", "price": 2499, "oldPrice": 3499, "tags": ["Action", "Souls-like", "Historical"], "description": "Станьте последним самураем в эпоху Сэнгоку.", "developer": "Katana Works", "rating": 4.9},
-  {"id": 4, "title": "Racing Thunder", "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=600", "price": 999, "oldPrice": null, "tags": ["Racing", "Arcade", "Multiplayer"], "description": "Безумные гонки на суперкарах.", "developer": "Speed Kings", "rating": 4.2},
-  {"id": 5, "title": "Mystic Realms Online", "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600", "price": 0, "oldPrice": null, "tags": ["MMO", "Fantasy", "Free-to-Play"], "description": "Бесплатная MMORPG.", "developer": "Mythic Games", "rating": 4.0},
-  {"id": 6, "title": "Detective Noir", "image": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=600", "price": 799, "oldPrice": 1299, "tags": ["Adventure", "Mystery", "Narrative"], "description": "Расследуйте дела в стиле нуар.", "developer": "Noir Interactive", "rating": 4.6},
-  {"id": 7, "title": "Zombie Survival", "image": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600", "price": 1299, "oldPrice": 1799, "tags": ["Survival", "Horror", "Co-op"], "description": "Выживайте в мире зомби.", "developer": "Undead Studios", "rating": 4.4},
-  {"id": 8, "title": "Medieval Kingdoms", "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600", "price": 1899, "oldPrice": null, "tags": ["Strategy", "Historical", "RPG"], "description": "Правьте средневековым королевством.", "developer": "Crown Interactive", "rating": 4.7},
-  {"id": 9, "title": "Neon Fighters", "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600", "price": 599, "oldPrice": 999, "tags": ["Fighting", "Arcade", "Multiplayer"], "description": "Динамичный файтинг.", "developer": "Pixel Brawl", "rating": 4.3},
-  {"id": 10, "title": "Ocean Explorer", "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600", "price": 1199, "oldPrice": null, "tags": ["Adventure", "Simulation", "Indie"], "description": "Исследуйте глубины океана.", "developer": "Deep Blue Games", "rating": 4.5},
-  {"id": 11, "title": "Space Marines", "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600", "price": 2199, "oldPrice": 2999, "tags": ["Shooter", "Sci-Fi", "Action"], "description": "Эпический шутер.", "developer": "Galaxy Forge", "rating": 4.6},
-  {"id": 12, "title": "Farm Life Simulator", "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600", "price": 699, "oldPrice": null, "tags": ["Simulation", "Casual", "Indie"], "description": "Постройте ферму мечты.", "developer": "Harvest Moon Studio", "rating": 4.8},
-  {"id": 13, "title": "Dark Dungeon", "image": "https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=600", "price": 899, "oldPrice": 1499, "tags": ["RPG", "Roguelike", "Indie"], "description": "Хардкорный рогалик.", "developer": "Dungeon Labs", "rating": 4.4},
-  {"id": 14, "title": "City Builder 2030", "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=600", "price": 1599, "oldPrice": null, "tags": ["Simulation", "Strategy", "City Builder"], "description": "Спроектируйте город будущего.", "developer": "Urban Dreams", "rating": 4.5},
-  {"id": 15, "title": "Ninja Legends", "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600", "price": 1799, "oldPrice": 2499, "tags": ["Action", "Adventure", "Stealth"], "description": "Станьте мастером ниндзюцу.", "developer": "Shadow Arts", "rating": 4.7},
-  {"id": 16, "title": "Puzzle Dimensions", "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?w=600", "price": 399, "oldPrice": null, "tags": ["Puzzle", "Indie", "Casual"], "description": "Головоломка с пространством.", "developer": "Mind Bend", "rating": 4.9},
-  {"id": 17, "title": "War Thunder", "image": "https://images.unsplash.com/photo-1569974498991-d3c12a5b6ea9?w=600", "price": 0, "oldPrice": null, "tags": ["Shooter", "Military", "Free-to-Play"], "description": "Масштабные танковые сражения.", "developer": "Armor Games", "rating": 4.3},
-  {"id": 18, "title": "Magic Academy", "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600", "price": 1099, "oldPrice": 1599, "tags": ["RPG", "Fantasy", "Adventure"], "description": "Обучайтесь магии.", "developer": "Wizard Works", "rating": 4.6}
+  {
+    "id": 1,
+    "title": "Cyber Odyssey 2088",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600",
+    "price": 1999,
+    "oldPrice": 2999,
+    "tags": ["RPG", "Cyberpunk", "Open World"],
+    "description": "Погрузитесь в мрачное будущее, где корпорации правят миром. Исследуйте огромный киберпанк-город, выполняйте опасные задания и раскройте заговор, который может изменить судьбу человечества.",
+    "developer": "Neon Studios",
+    "rating": 4.8,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "70 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700K / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3070 / AMD RX 6800",
+        "storage": "70 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "Stellar Frontier",
+    "image": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=600",
+    "price": 1499,
+    "oldPrice": null,
+    "tags": ["Strategy", "Sci-Fi", "4X"],
+    "description": "Постройте межзвёздную империю. Управляйте ресурсами, исследуйте новые планеты, ведите дипломатические переговоры и сражайтесь за доминирование в галактике.",
+    "developer": "Cosmos Games",
+    "rating": 4.5,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-6600 / AMD Ryzen 5 1600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 970 / AMD RX 570",
+        "storage": "20 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-8700 / AMD Ryzen 7 2700",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "20 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "Shadow of the Samurai",
+    "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=600",
+    "price": 2499,
+    "oldPrice": 3499,
+    "tags": ["Action", "Souls-like", "Historical"],
+    "description": "Станьте последним самураем в эпоху Сэнгоку. Овладейте искусством кендзюцу, сражайтесь с могущественными противниками и восстановите честь своего клана.",
+    "developer": "Katana Works",
+    "rating": 4.9,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "50 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700 / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3060 Ti / AMD RX 6700 XT",
+        "storage": "50 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "title": "Racing Thunder",
+    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=600",
+    "price": 999,
+    "oldPrice": null,
+    "tags": ["Racing", "Arcade", "Multiplayer"],
+    "description": "Безумные гонки на суперкарах по самым опасным трассам мира. Участвуйте в турнирах, улучшайте автомобили и соревнуйтесь с игроками со всего мира.",
+    "developer": "Speed Kings",
+    "rating": 4.2,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-4460 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 960 / AMD R9 280",
+        "storage": "30 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-7700 / AMD Ryzen 5 2600",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "30 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "title": "Mystic Realms Online",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600",
+    "price": 0,
+    "oldPrice": null,
+    "tags": ["MMO", "Fantasy", "Free-to-Play"],
+    "description": "Бесплатная MMORPG с огромным фэнтезийным миром. Выберите класс, объединяйтесь с друзьями в гильдии, исследуйте подземелья и участвуйте в масштабных PvP-сражениях.",
+    "developer": "Mythic Games",
+    "rating": 4.0,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-4460 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 760 / AMD R9 270",
+        "storage": "40 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-6700 / AMD Ryzen 5 1600",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1060 / AMD RX 580",
+        "storage": "40 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "title": "Detective Noir",
+    "image": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=600",
+    "price": 799,
+    "oldPrice": 1299,
+    "tags": ["Adventure", "Mystery", "Narrative"],
+    "description": "Расследуйте дела в стиле нуар. Погрузитесь в атмосферу 1940-х годов, собирайте улики, допрашивайте подозреваемых и раскрывайте запутанные преступления.",
+    "developer": "Noir Interactive",
+    "rating": 4.6,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i3-6100 / AMD FX-6300",
+        "memory": "4 GB RAM",
+        "graphics": "NVIDIA GTX 750 Ti / AMD R7 260X",
+        "storage": "15 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i5-7400 / AMD Ryzen 3 2200G",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1050 Ti / AMD RX 560",
+        "storage": "15 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "title": "Zombie Survival",
+    "image": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600",
+    "price": 1299,
+    "oldPrice": 1799,
+    "tags": ["Survival", "Horror", "Co-op"],
+    "description": "Выживайте в мире зомби. Стройте убежища, собирайте ресурсы, создавайте оружие и объединяйтесь с другими выжившими, чтобы противостоять ордам нежити.",
+    "developer": "Undead Studios",
+    "rating": 4.4,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-4460 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 960 / AMD R9 280",
+        "storage": "25 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-7700 / AMD Ryzen 5 2600",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "25 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "title": "Medieval Kingdoms",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600",
+    "price": 1899,
+    "oldPrice": null,
+    "tags": ["Strategy", "Historical", "RPG"],
+    "description": "Правьте средневековым королевством. Управляйте экономикой, армией и дипломатией. Заключайте браки по расчету, ведите войны и расширяйте свои владения.",
+    "developer": "Crown Interactive",
+    "rating": 4.7,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-6600 / AMD Ryzen 5 1600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 970 / AMD RX 570",
+        "storage": "35 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-8700 / AMD Ryzen 7 2700",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "35 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "title": "Neon Fighters",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600",
+    "price": 599,
+    "oldPrice": 999,
+    "tags": ["Fighting", "Arcade", "Multiplayer"],
+    "description": "Динамичный файтинг с яркой неоновой эстетикой. Выбирайте из 20 уникальных бойцов, осваивайте комбо и сражайтесь в онлайн-режиме.",
+    "developer": "Pixel Brawl",
+    "rating": 4.3,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i3-6100 / AMD FX-6300",
+        "memory": "4 GB RAM",
+        "graphics": "NVIDIA GTX 750 Ti / AMD R7 260X",
+        "storage": "10 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i5-7400 / AMD Ryzen 3 2200G",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1050 Ti / AMD RX 560",
+        "storage": "10 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "title": "Ocean Explorer",
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600",
+    "price": 1199,
+    "oldPrice": null,
+    "tags": ["Adventure", "Simulation", "Indie"],
+    "description": "Исследуйте глубины океана. Погружайтесь в подводный мир, открывайте новые виды морских обитателей и разгадывайте тайны затонувших кораблей.",
+    "developer": "Deep Blue Games",
+    "rating": 4.5,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-4460 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 960 / AMD R9 280",
+        "storage": "20 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-7700 / AMD Ryzen 5 2600",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "20 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "title": "Space Marines",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600",
+    "price": 2199,
+    "oldPrice": 2999,
+    "tags": ["Shooter", "Sci-Fi", "Action"],
+    "description": "Эпический шутер от третьего лица. Сражайтесь с инопланетными захватчиками, используйте продвинутое вооружение и спасите человечество от уничтожения.",
+    "developer": "Galaxy Forge",
+    "rating": 4.6,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "60 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700 / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3060 Ti / AMD RX 6700 XT",
+        "storage": "60 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "title": "Farm Life Simulator",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600",
+    "price": 699,
+    "oldPrice": null,
+    "tags": ["Simulation", "Casual", "Indie"],
+    "description": "Постройте ферму мечты. Выращивайте культуры, разводите животных, торгуйте на рынке и создайте процветающее сельскохозяйственное хозяйство.",
+    "developer": "Harvest Moon Studio",
+    "rating": 4.8,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i3-6100 / AMD FX-6300",
+        "memory": "4 GB RAM",
+        "graphics": "NVIDIA GTX 750 Ti / AMD R7 260X",
+        "storage": "10 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i5-7400 / AMD Ryzen 3 2200G",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1050 Ti / AMD RX 560",
+        "storage": "10 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "title": "Dark Dungeon",
+    "image": "https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=600",
+    "price": 899,
+    "oldPrice": 1499,
+    "tags": ["RPG", "Roguelike", "Indie"],
+    "description": "Хардкорный рогалик с процедурно генерируемыми подземельями. Каждый забег уникален, смерть постоянна, а награды стоят риска.",
+    "developer": "Dungeon Labs",
+    "rating": 4.4,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i3-6100 / AMD FX-6300",
+        "memory": "4 GB RAM",
+        "graphics": "NVIDIA GTX 750 Ti / AMD R7 260X",
+        "storage": "5 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i5-7400 / AMD Ryzen 3 2200G",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1050 Ti / AMD RX 560",
+        "storage": "5 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "title": "City Builder 2030",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=600",
+    "price": 1599,
+    "oldPrice": null,
+    "tags": ["Simulation", "Strategy", "City Builder"],
+    "description": "Спроектируйте город будущего. Управляйте инфраструктурой, транспортом, энергетикой и создавайте умный мегаполис с учетом экологии.",
+    "developer": "Urban Dreams",
+    "rating": 4.5,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-6600 / AMD Ryzen 5 1600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 970 / AMD RX 570",
+        "storage": "25 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-8700 / AMD Ryzen 7 2700",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "25 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "title": "Ninja Legends",
+    "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600",
+    "price": 1799,
+    "oldPrice": 2499,
+    "tags": ["Action", "Adventure", "Stealth"],
+    "description": "Станьте мастером ниндзюцу. Проникайте во вражеские крепости, устраняйте цели бесшумно и раскройте древний заговор.",
+    "developer": "Shadow Arts",
+    "rating": 4.7,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "45 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700 / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3060 Ti / AMD RX 6700 XT",
+        "storage": "45 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "title": "Puzzle Dimensions",
+    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?w=600",
+    "price": 399,
+    "oldPrice": null,
+    "tags": ["Puzzle", "Indie", "Casual"],
+    "description": "Головоломка с пространством. Манипулируйте измерениями, решайте сложные задачи и откройте секреты мультивселенной.",
+    "developer": "Mind Bend",
+    "rating": 4.9,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i3-6100 / AMD FX-6300",
+        "memory": "4 GB RAM",
+        "graphics": "NVIDIA GTX 750 Ti / AMD R7 260X",
+        "storage": "5 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i5-7400 / AMD Ryzen 3 2200G",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1050 Ti / AMD RX 560",
+        "storage": "5 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "title": "War Thunder",
+    "image": "https://images.unsplash.com/photo-1569974498991-d3c12a5b6ea9?w=600",
+    "price": 0,
+    "oldPrice": null,
+    "tags": ["Shooter", "Military", "Free-to-Play"],
+    "description": "Масштабные танковые сражения. Командуйте бронетехникой Второй мировой войны, участвуйте в командных боях и развивайте свой арсенал.",
+    "developer": "Armor Games",
+    "rating": 4.3,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-4460 / AMD FX-6300",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 960 / AMD R9 280",
+        "storage": "30 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-7700 / AMD Ryzen 5 2600",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "30 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "title": "Magic Academy",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600",
+    "price": 1099,
+    "oldPrice": 1599,
+    "tags": ["RPG", "Fantasy", "Adventure"],
+    "description": "Обучайтесь магии в престижной академии. Изучайте заклинания, смешивайте зелья, участвуйте в дуэлях и раскройте тайну древнего проклятия.",
+    "developer": "Wizard Works",
+    "rating": 4.6,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-6600 / AMD Ryzen 5 1600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 970 / AMD RX 570",
+        "storage": "30 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-8700 / AMD Ryzen 7 2700",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "30 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "title": "Dragon's Legacy",
+    "image": "https://images.unsplash.com/photo-1577493340887-b7bfff550145?w=600",
+    "price": 2299,
+    "oldPrice": 2999,
+    "tags": ["RPG", "Fantasy", "Open World"],
+    "description": "Эпическое приключение в мире драконов. Станьте всадником дракона, исследуйте обширные земли, сражайтесь с древними чудовищами и восстановите баланс между людьми и драконами.",
+    "developer": "Dragon Forge Studios",
+    "rating": 4.8,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "80 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700K / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3070 / AMD RX 6800",
+        "storage": "80 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "title": "Tactical Ops: Elite",
+    "image": "https://images.unsplash.com/photo-1552072092-7f9b8d6d9339?w=600",
+    "price": 1899,
+    "oldPrice": null,
+    "tags": ["Shooter", "Tactical", "Multiplayer"],
+    "description": "Реалистичный тактический шутер. Работайте в команде, планируйте операции, используйте современное вооружение и выполняйте миссии спецназа по всему миру.",
+    "developer": "Elite Tactical Games",
+    "rating": 4.7,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "50 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700 / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3060 Ti / AMD RX 6700 XT",
+        "storage": "50 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "title": "Wild West Outlaws",
+    "image": "https://images.unsplash.com/photo-1533106958148-da0c2de6389d?w=600",
+    "price": 1699,
+    "oldPrice": 2199,
+    "tags": ["Action", "Western", "Open World"],
+    "description": "Жизнь на Диком Западе. Станьте шерифом или outlaw, грабьте поезда, участвуйте в перестрелках и создайте свою легенду на границе цивилизации.",
+    "developer": "Frontier Games",
+    "rating": 4.6,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "65 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700 / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3060 Ti / AMD RX 6700 XT",
+        "storage": "65 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "title": "Quantum Break",
+    "image": "https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?w=600",
+    "price": 1999,
+    "oldPrice": null,
+    "tags": ["Action", "Sci-Fi", "Time Travel"],
+    "description": "Манипулируйте временем в этом научно-фантастическом экшене. Используйте временные способности для решения головоломок и сражений, предотвратите катастрофу, угрожающую реальности.",
+    "developer": "Temporal Studios",
+    "rating": 4.7,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "55 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700K / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3070 / AMD RX 6800",
+        "storage": "55 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "title": "Pirate's Treasure",
+    "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=600",
+    "price": 1399,
+    "oldPrice": 1899,
+    "tags": ["Adventure", "Action", "Naval"],
+    "description": "Станьте капитаном пиратского корабля. Исследуйте Карибское море, сражайтесь с другими кораблями, ищите сокровища и создайте свою пиратскую империю.",
+    "developer": "Sea Rogue Games",
+    "rating": 4.5,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-6600 / AMD Ryzen 5 1600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 970 / AMD RX 570",
+        "storage": "40 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-8700 / AMD Ryzen 7 2700",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "40 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "title": "Mech Warriors Arena",
+    "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600",
+    "price": 1799,
+    "oldPrice": null,
+    "tags": ["Action", "Mecha", "Multiplayer"],
+    "description": "Управляйте гигантскими боевыми роботами. Настраивайте мехов, выбирайте оружие и сражайтесь в эпических битвах на арене с другими пилотами.",
+    "developer": "Iron Giant Studios",
+    "rating": 4.6,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "45 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700 / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3060 Ti / AMD RX 6700 XT",
+        "storage": "45 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "title": "Haunted Mansion",
+    "image": "https://images.unsplash.com/photo-1509557965875-b88c97052f0e?w=600",
+    "price": 999,
+    "oldPrice": 1499,
+    "tags": ["Horror", "Adventure", "Puzzle"],
+    "description": "Исследуйте проклятый особняк. Решайте загадки, избегайте призраков и раскройте мрачную историю семьи, которая когда-то жила здесь.",
+    "developer": "Phantom Interactive",
+    "rating": 4.4,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-6600 / AMD Ryzen 5 1600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 970 / AMD RX 570",
+        "storage": "25 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-8700 / AMD Ryzen 7 2700",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "25 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "title": "Formula Racing Pro",
+    "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=600",
+    "price": 2499,
+    "oldPrice": null,
+    "tags": ["Racing", "Simulation", "Sports"],
+    "description": "Реалистичный симулятор гонок Формулы-1. Управляйте болидами, настраивайте машину, соревнуйтесь в чемпионате и станьте чемпионом мира.",
+    "developer": "Velocity Simulations",
+    "rating": 4.8,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "50 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700K / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3070 / AMD RX 6800",
+        "storage": "50 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "title": "Viking Saga",
+    "image": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=600",
+    "price": 1899,
+    "oldPrice": 2499,
+    "tags": ["Action", "RPG", "Historical"],
+    "description": "Станьте викингом-воином. Совершайте набеги, исследуйте новые земли, участвуйте в битвах и прославьте свое имя в скандинавских сагах.",
+    "developer": "Nordic Tales",
+    "rating": 4.7,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "60 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700 / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3060 Ti / AMD RX 6700 XT",
+        "storage": "60 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "title": "Cyber Heist",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600",
+    "price": 1599,
+    "oldPrice": null,
+    "tags": ["Action", "Stealth", "Heist"],
+    "description": "Совершите идеальное ограбление в киберпанк-мире. Взламывайте системы безопасности, обходите охрану и украдите самые ценные данные корпораций.",
+    "developer": "Digital Thieves",
+    "rating": 4.5,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "40 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700 / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3060 Ti / AMD RX 6700 XT",
+        "storage": "40 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "title": "Ancient Civilizations",
+    "image": "https://images.unsplash.com/photo-1564399580075-5dfe19c205f3?w=600",
+    "price": 1499,
+    "oldPrice": 1999,
+    "tags": ["Strategy", "Historical", "4X"],
+    "description": "Постройте великую цивилизацию от каменного века до современности. Развивайте технологии, ведите войны, заключайте союзы и оставьте свой след в истории.",
+    "developer": "Epoch Games",
+    "rating": 4.6,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-6600 / AMD Ryzen 5 1600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 970 / AMD RX 570",
+        "storage": "30 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-8700 / AMD Ryzen 7 2700",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "30 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "title": "Monster Hunter Chronicles",
+    "image": "https://images.unsplash.com/photo-1560167016-022b78a0258e?w=600",
+    "price": 2199,
+    "oldPrice": null,
+    "tags": ["Action", "RPG", "Co-op"],
+    "description": "Охотьтесь на гигантских монстров в кооперативном режиме. Создавайте оружие из их частей, изучайте повадки зверей и станьте легендарным охотником.",
+    "developer": "Beast Slayer Studios",
+    "rating": 4.8,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "70 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700K / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3070 / AMD RX 6800",
+        "storage": "70 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "title": "Street Fighter Evolution",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600",
+    "price": 1299,
+    "oldPrice": 1799,
+    "tags": ["Fighting", "Arcade", "Competitive"],
+    "description": "Новая эра файтингов. 30 уникальных бойцов, глубокая боевая система, онлайн-турниры и режим истории для каждого персонажа.",
+    "developer": "Combat Arts",
+    "rating": 4.7,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-6600 / AMD Ryzen 5 1600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 970 / AMD RX 570",
+        "storage": "20 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-8700 / AMD Ryzen 7 2700",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "20 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "title": "Post-Apocalyptic Survival",
+    "image": "https://images.unsplash.com/photo-1542259681-dadcd731560b?w=600",
+    "price": 1699,
+    "oldPrice": null,
+    "tags": ["Survival", "Open World", "Crafting"],
+    "description": "Выживайте в постапокалиптическом мире. Собирайте ресурсы, стройте убежище, создавайте оружие и защищайтесь от мародеров и мутантов.",
+    "developer": "Wasteland Games",
+    "rating": 4.5,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "50 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700 / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3060 Ti / AMD RX 6700 XT",
+        "storage": "50 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "title": "Galactic Empire",
+    "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=600",
+    "price": 1999,
+    "oldPrice": 2699,
+    "tags": ["Strategy", "Sci-Fi", "RTS"],
+    "description": "Командуйте космическим флотом. Стройте базы, исследуйте технологии, ведите межзвездные войны и подчините себе галактику.",
+    "developer": "Star Command Studios",
+    "rating": 4.6,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "35 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700 / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3060 Ti / AMD RX 6700 XT",
+        "storage": "35 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "title": "Horror Hospital",
+    "image": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?w=600",
+    "price": 899,
+    "oldPrice": 1299,
+    "tags": ["Horror", "Survival", "Psychological"],
+    "description": "Психологический хоррор в заброшенной больнице. Исследуйте темные коридоры, разгадывайте тайны и пытайтесь выжить среди ужасов, которые скрывает это место.",
+    "developer": "Nightmare Studios",
+    "rating": 4.4,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-6600 / AMD Ryzen 5 1600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 970 / AMD RX 570",
+        "storage": "20 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-8700 / AMD Ryzen 7 2700",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "20 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "title": "Extreme Sports Challenge",
+    "image": "https://images.unsplash.com/photo-1520013573795-38516d2661e4?w=600",
+    "price": 1199,
+    "oldPrice": null,
+    "tags": ["Sports", "Extreme", "Multiplayer"],
+    "description": "Испытайте адреналин в экстремальных видах спорта. Скейтбординг, сноубординг, BMX и паркур — выполняйте трюки и побеждайте в соревнованиях.",
+    "developer": "Adrenaline Games",
+    "rating": 4.3,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-6600 / AMD Ryzen 5 1600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 970 / AMD RX 570",
+        "storage": "25 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-8700 / AMD Ryzen 7 2700",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "25 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "title": "Mythology Wars",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600",
+    "price": 1799,
+    "oldPrice": 2299,
+    "tags": ["Strategy", "Mythology", "RTS"],
+    "description": "Ведите армии богов и героев в эпических сражениях. Выбирайте между греческой, скандинавской и египетской мифологиями, используйте божественные силы.",
+    "developer": "Pantheon Interactive",
+    "rating": 4.7,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "35 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700 / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3060 Ti / AMD RX 6700 XT",
+        "storage": "35 GB NVMe SSD"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "title": "Underwater City",
+    "image": "https://images.unsplash.com/photo-1551244072-5d12893278ab?w=600",
+    "price": 1399,
+    "oldPrice": null,
+    "tags": ["Simulation", "City Builder", "Sci-Fi"],
+    "description": "Постройте город под водой. Управляйте ресурсами, защитой от давления и хищников, развивайте технологии и создайте подводную утопию.",
+    "developer": "Aqua Builders",
+    "rating": 4.5,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-6600 / AMD Ryzen 5 1600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 970 / AMD RX 570",
+        "storage": "30 GB HDD"
+      },
+      "recommended": {
+        "os": "Windows 10/11 64-bit",
+        "processor": "Intel Core i7-8700 / AMD Ryzen 7 2700",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA GTX 1070 / AMD RX 580",
+        "storage": "30 GB SSD"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "title": "Samurai Dynasty",
+    "image": "https://images.unsplash.com/photo-1528164344705-47542687000d?w=600",
+    "price": 2099,
+    "oldPrice": 2799,
+    "tags": ["Strategy", "Historical", "RPG"],
+    "description": "Управляйте кланом самураев через поколения. Принимайте стратегические решения, воспитывайте наследников, ведите войны и создайте династию, которая войдет в историю Японии.",
+    "developer": "Bushido Games",
+    "rating": 4.8,
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 10 64-bit",
+        "processor": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "memory": "8 GB RAM",
+        "graphics": "NVIDIA GTX 1060 6GB / AMD RX 580",
+        "storage": "45 GB SSD"
+      },
+      "recommended": {
+        "os": "Windows 11 64-bit",
+        "processor": "Intel Core i7-10700K / AMD Ryzen 7 3700X",
+        "memory": "16 GB RAM",
+        "graphics": "NVIDIA RTX 3070 / AMD RX 6800",
+        "storage": "45 GB NVMe SSD"
+      }
+    }
+  }
 ]
